@@ -1,1 +1,1 @@
-For my final exam, I built a floral shop website using ホームページ・ビルダー with HTML and CSS, focusing on user-friendly design, responsiveness, and product presentation, enhancing my skills in front-end development, layout structuring, and user experience optimization.
+For my final exam, I built a floral shop website using simple HTML and CSS, focusing on user-friendly design, responsiveness, and product presentation, enhancing my skills in front-end development, layout structuring, and user experience optimization.
