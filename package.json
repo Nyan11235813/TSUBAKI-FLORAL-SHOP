@@ -1,0 +1,23 @@
+{
+  "name": "tsubaki-floral-shop",
+  "version": "1.0.0",
+  "description": "For my final exam, I built a floral shop website using simple HTML and CSS, focusing on user-friendly design, responsiveness, and product presentation, enhancing my skills in front-end development, layout structuring, and user experience optimization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyan11235813/TSUBAKI-FLORAL-SHOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nyan11235813/TSUBAKI-FLORAL-SHOP/issues"
+  },
+  "homepage": "https://github.com/Nyan11235813/TSUBAKI-FLORAL-SHOP#readme",
+  "dependencies": {
+    "astro": "^5.7.12"
+  }
+}
